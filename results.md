@@ -3,7 +3,7 @@
 ### Methods
 
 Our project is based on [Constable GitHub Action](https://github.com/MeghanaVasist/constable-github-action) which grades a repository for its contributability.
-For the experiment, we first asked the labrats to manually evaluate 7 different repositories and grade them based on their contributability. We did this to understand how a potential contributor looks at a repository before deciding whether they would like to hop onto the project or not. After that, we tried to understand the factors they took into consideration while rating the repositories for their contributability. Also, we asked them to assign weights to each of the factors. This helped us understand the reasons for the allotted grades.
+For the experiment, we first asked the lab rats to manually evaluate 7 different repositories and grade them based on their contributability. We did this to understand how a potential contributor looks at a repository before deciding whether they would like to hop onto the project or not. After that, we tried to understand the factors they took into consideration while rating the repositories for their contributability. Also, we asked them to assign weights to each of the factors. This helped us understand the reasons for the allotted grades.
 
 The next step in our process was to introduce them to Constable. We asked them to play with it by evaluating some of the previously examined repositories using Constable. We followed that by requesting a review about their user experience. We asked them questions like how they would determine the contributability of the project and if they would like to make additions or reductions to the factors involved in grading GitHub repositories.
 
