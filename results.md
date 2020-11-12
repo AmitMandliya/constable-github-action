@@ -33,12 +33,8 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
 ### Observations
 
-* Distribution of grades alloted by users to experiment repositories along with the grades alloted by Constable.
-
-  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/repo1GradeDist.png) ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/repo2GradeDist.png)
-  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/repo3GradeDist.png) ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/repo4GradeDist.png)
-  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/repo5GradeDist.png) ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/repo6GradeDist.png)
-                        ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/repo7GradeDist.png) 
+* Comparisons between mode of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
+                        ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparison.png) 
                         
 * Word Cloud of answers to the question: **In a single word, what is the single most important factor you look for in a repository to judge its contributability?** </br>
   
