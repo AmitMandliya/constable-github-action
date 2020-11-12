@@ -71,4 +71,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
 ### Threats to Validity
 
-<Place holder>
+* The user is not well acquainted with open source contributions and so could not accurately assess the importance of each file
+* Qualitative factors like well-written code, easy of understanding are not taken into consideration by the user given the time limit 
+* The insufficent no of observations for deduce a conclusion.
+* Not all lab rats does not have extensive experience in software development to accurately evaluate other open source projects  
