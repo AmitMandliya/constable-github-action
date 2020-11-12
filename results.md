@@ -35,13 +35,19 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 
 * Comparisons between mode of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
                         ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparison.png) 
+  
+  The grades the labrats gave were usually very different from the grade assigned by Constable. This was mainly because of the fact that the labrats and Constable deemed different factors as essential to realize the contributability of a repository. When they looked at a repository, they went through the documentation and purpose of the project. Constable, on the other hand, graded repositories more objectively.
                         
 * Word Cloud of answers to the question: **In a single word, what is the single most important factor you look for in a repository to judge its contributability?** </br>
   
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/wordCloud1.png) 
 
+  The most important factors they considered for contributability were documentation, explanation etc. This shows that the presence of contribution and readme files were not enough. Contributors require these files to have enough information such that the purpose and requirements are well understood.
+  
 * Here are the **top 5 factors which can make Constable better**:
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsToMakeBetter.png) 
+  
+  We also asked users what can improve Constable and many of them mentioned the same factors. They believed that including code coverage, style checkers and a few more would help them understand the repositories and their structures better.
   
 * Here are the **top 5 factors which are not considered important** while judging a repository:
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsNotImportant.png) 
