@@ -2,11 +2,29 @@
 
 ### Methods
 
-<Place Holder>
+Our project is based on [Constable GitHub Action](https://github.com/MeghanaVasist/constable-github-action) which grades a repository for its contributability.
+For the experiment, we first asked the labrats to manually evaluate 7 different repositories and grade them based on their contributability. We did this to understand how a potential contributor looks at a repository before deciding whether they would like to hop onto the project or not. After that, we tried to understand the factors they took into consideration while rating the repositories for their contributability. Also, we asked them to assign weights to each of the factors. This helped us understand the reasons for the allotted grades.
+
+The next step in our process was to introduce them to Constable. We asked them to play with it by evaluating some of the previously examined repositories using Constable. We followed that by requesting a review about their user experience. We asked them questions like how they would determine the contributability of the project and if they would like to make additions or reductions to the factors involved in grading GitHub repositories.
+
+With the help of this process, we were able to understand two things:
+  1. What do people usually look for in a repository when they want to contribute towards it?
+  2. Did Constable GitHub Action meet the expectations of the crowd?
+
+After getting the responses, we performed analysis on them and derived meaningful insights.
   
 ### Materials
 
-<Place holder>
+List of repositories which we used for experiment:
+1. [fall2019-cs-gy-6063-team-one](https://github.com/gcivil-nyu-org/fall2019-cs-gy-6063-team-one)
+2. [google-api-php-client](https://github.com/googleapis/google-api-php-client)
+3. [shardingsphere](https://github.com/apache/shardingsphere)
+4. [engsoccerdata](https://github.com/jalapic/engsoccerdata)
+5. [servo](https://github.com/servo/servo)
+6. [public-apis](https://github.com/public-apis/public-apis)
+7. [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
+Link to Constable application: [https://5f9835f7f284f1a827a9681c--jovial-bose-1694a3.netlify.app/](https://5f9835f7f284f1a827a9681c--jovial-bose-1694a3.netlify.app/)
   
 ### Observations
 
