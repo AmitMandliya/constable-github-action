@@ -44,6 +44,11 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/wordCloud1.png) 
 
+* Here are the **top 5 factors which can make Constable better**:
+  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsToMakeBetter.png) 
+  
+* Here are the **top 5 factors which are not considered important** while judging a repository:
+  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsNotImportant.png) 
   
 ### Analysis
 
