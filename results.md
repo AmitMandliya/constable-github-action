@@ -38,9 +38,9 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
   The grades the labrats gave were usually very different from the grade assigned by Constable. This was mainly because of the fact that the labrats and Constable deemed different factors as essential to realize the contributability of a repository. When they looked at a repository, they went through the documentation and purpose of the project. Constable, on the other hand, graded repositories more objectively.
                         
-* Word Cloud of answers to the question: **In a single word, what is the single most important factor you look for in a repository to judge its contributability?** </br>
+* Histogram of answers to the question: **In a single word, what is the single most important factor you look for in a repository to judge its contributability?** </br>
   
-  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/wordCloud1.png) 
+  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/singleFactorHist.png) 
 
   The most important factors they considered for contributability were documentation, explanation etc. This shows that the presence of contribution and readme files were not enough. Contributors require these files to have enough information such that the purpose and requirements are well understood.
   
