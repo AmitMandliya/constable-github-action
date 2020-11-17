@@ -33,6 +33,36 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
 ### Observations
 
+* We perused through the comments we received for each repository and picked the positives and negatives in the comments.
+  * Repo 1: </br>
+      Positives: Template for Issues </br>
+      Negatives: No CONTRIBUTING.md, CODE_OF_CONDUCT.d, README is not very clear, No great explanation of code, lacks clear documentation </br>
+    
+  * Repo 2: </br>
+      Positives: README.md, CONTRIBUTING.md is good, Step-by-step info on how to use the system is provided </br>
+      Negatives: Missing Badges, Code Coverage, Travis, Not many open issues, Single user has lot of commits </br>
+   
+  * Repo 3: </br>
+      Positives: Almost perfect repo, Fantastic Documentation, all necessary files are present, great visualizations and diagrams, many badges </br>
+      Negatives: No requirements.txt </br>
+   
+  * Repo 4: </br>
+      Positives: README.md is well bifurcated into sections </br>
+      Negatives: Missing CONTRIBUTING.md, requirements.txt, CODE_OF_CONDUCT.md, License, Filenames not consistent, issues not descriptive enough
+               Travis, Badges, Code Coverage are missing </br>
+         
+  * Repo 5: </br>
+      Positives: Great README, contains badges, fairly active repo, number of contributors is high, highly contributable, issues are very descriptive </br>
+      Negatives: Lots of open issues, no CODE_OF_CONDUCT.md, requirements.txt </br>
+    
+  * Repo 6:  </br>
+      Positives: Average documentation, contains Badges, Travis </br>
+      Negatives: Unstructured code, many PRs, License, CODE_OF_CONDUCT.md are missing, not clear what is expected from contributors </br>
+    
+  * Repo 7: </br>
+      Positives: Helpful Project </br>
+      Negatives: Missing license, badges, travis, code coverage, CODE_OF_CONDUCT.md, can't get much clarity, equal no of open and close issues </br>
+    
 * Comparisons between mode of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
                         ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparison.png) 
   
