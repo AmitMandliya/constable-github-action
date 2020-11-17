@@ -95,7 +95,9 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/sigFactorsOTConstable2.png) 
 
   We observed that most lab rats listed factors which help in understanding the repository. They used these factors to judge how often the repository is used, how regularly it is updated, how recently some changes were made, whether the contributors were coordinating in any way, if the code was well explained and understood, if the repository could be set up with ease, etc. These factors seemed to be the most significant factors.
-  
+
+### Analysis
+
 * Here are the **top 5 factors which can make Constable better**:
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsToMakeBetter.png) 
   
@@ -104,9 +106,6 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 * Here are the **top 5 factors which are not considered important** while judging a repository:
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsNotImportant.png) 
   
-  
-### Analysis
-
 * We asked our subjects to rate importance of each factor that is currently tracked by Constable on a scale of 1 to 5. We then normalized the scores of each subject and finally plotted the value on a scale of 1 to 10. Doing this helped us to compare the weights which Constable is currently using with the weights assigned by the subjects.
 
   Here is a comparison of weights assigned by Constable and the mean of weights assigned by the subjects:
