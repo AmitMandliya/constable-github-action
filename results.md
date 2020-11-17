@@ -44,8 +44,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 
   The most important factors they considered for contributability were documentation, explanation etc. This shows that the presence of contribution and readme files were not enough. Contributors require these files to have enough information such that the purpose and requirements are well understood.
 
-* Histogram of answers to the question: **What other factors apart from the ones listed Constable do you think are significant while judging the contributability of a GitHub repository?
-** </br>
+* Histogram of answers to the question: **What other factors apart from the ones listed Constable do you think are significant while judging the contributability of a GitHub repository?** </br>
   
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/sigFactorsOTConstable.png) 
 
