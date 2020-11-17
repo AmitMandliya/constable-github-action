@@ -82,8 +82,12 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 * Comparisons between mode of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
                         ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparison.png) 
   
-  The grades the labrats gave were usually very different from the grade assigned by Constable. This was mainly because of the fact that the labrats and Constable deemed different factors as essential to realize the contributability of a repository. When they looked at a repository, they went through the documentation and purpose of the project. Constable, on the other hand, graded repositories more objectively.
-                        
+  The grades the subjects gave were usually very different from the grade assigned by Constable. This was mainly because of the fact that the labrats and Constable deemed different factors as essential to realize the contributability of a repository. When they looked at a repository, they went through the documentation and purpose of the project. Constable, on the other hand, graded repositories more objectively.
+  
+* Comparisons between median of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
+                        ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparisonMedian.png) 
+ The distribution of median of grades assigned by subjects is largely similar to that of mode because median essentially captures the overwhelming majority. Also, it balances the extreme values in responses and gives a sharp projection of the responses.
+  
 * Histogram of answers to the question: **In a single word, what is the single most important factor you look for in a repository to judge its contributability?** </br>
   
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/singleFactorHist.png) 
@@ -124,22 +128,22 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   * This points to a conclusion that the weights for all these files need to be readjusted.
   
 ### Conclusions
-  After conducting 10 experiments on 7 different repositories, we gathered qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations, we conclude that Constable Github Action is currently performing well but not the best. However, it can definitely be improved into a better application. From the readings of our experiment and what we have perceived from them, we are laying out certain suggestions for design of Constable 2.0.
+  After conducting 10 experiments on 7 different repositories, we gathered qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations to took, we conclude that Constable Github Action is currently performing well but not the best. However, it can be definitely improved into a better application. From the readings of our experiment, we are laying out certain suggestions for design of Constable 2.0 
   
 ### Design for Constable 2.0
   1. Consider code coverage of the repository.
   2. Check for a balanced text:graph ratio.
   3. Factors like Style Checkers, Code Formatters, Automated Analysis tools and setup.sh should be tracked. A stretch goal here can be: provide a dropdown having an exhaustive set of files and attributes of a GitHub repository so that the user can select all the factors he wants to track personally.
   4. Along with presence of files, content of the files is also important. Therefore, it should have a mechanism to rate content in the files.
-  5. Weights of the files tracked by Constable currently need to be readjusted. A stretch goal for this project can be: provide a setting where user can dynamically assign weights to all these files.
+  5. Weights of the files tracked by Constable currently need to be readjusted. A stretch goal for this project can be: provide a setting where user can             dynamically assign weights to all these files.
   6. Number of PR, Issues and average closing times are important. But description of issues and PRs are equally important if not less.
   7. Take in account the present badges on the repository for the grade calculation.
   8. Existence of an active chat channel is really helpful.
   
 ### Threats to Validity
-* Experimental mortality - The subjects might lose interest till they get to the last reposiotry and select any random option.
-* Instrumentation- With different people running the trials, difference in time noted will change the outcomes.
-* Selection of subjects - Bias in selecting the subjects may result in skewed results* Experimental mortality - The subjects might lose interest till they get to the last reposiotry and select any random option.
+* Experimental mortality - The subjects might lose interest till they get to the last reposiotry and select any random option
+* Instrumentation- With different people running the trials, difference in time noted will change the outcomes
+* Selection of subjects - Bias in selecting the subjects may result in skewed results* Experimental mortality - The subjects might lose interest till they get to the last reposiotry and select any random option
 * The user is not well acquainted with open source contributions and so could not accurately assess the importance of each file.
 * Qualitative factors like well-written code, easy of understanding are not taken into consideration by the user given the time limit. 
 * The insufficent no of observations for deduce a conclusion.
