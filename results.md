@@ -62,6 +62,18 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   * Repo 7: </br>
       Positives: Helpful Project </br>
       Negatives: Missing license, badges, travis, code coverage, CODE_OF_CONDUCT.md, can't get much clarity, equal no of open and close issues </br>
+      
+  From the above responses, we derived few points:
+    * All the subjects looked for excellent documentation and presence of LICENSE, CODE_OF_CONDUCT.md, CONTRIBUTING.md, requirements.txt, travis.
+    * Along with presence of these files, the subjects also looked into the contents of the files.
+    * Badges do have a great impact on outlook of the repository.
+    * Code Coverage was one of the important factors which the subjects looked for and that Constable GitHub Action is not tracking.
+    * Subjects looked into the description of issues and pull requests. Presence of templates for issues was appreciated. 
+    * High number of contributors does attract more contributors.
+    * With all the tangible attributes of a repository like files, images, documentation, the subjects also looked through what was the main idea behind the project. This factor adds lot of subjectivity to contributability of the repository.
+    * Visualizations and diagrams made better documentation.
+    
+  These points help us to collect recommendations for Constable 2.0.
     
 * Comparisons between mode of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
                         ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparison.png) 
