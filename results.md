@@ -124,7 +124,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   * This points to a conclusion that the weights for all these files need to be readjusted.
   
 ### Conclusions
-  After conducting 10 experiments on 7 different repositories, we gathered qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations to took, we conclude that Constable Github Action is currently performing well but not the best. However, it can be definitely improved into a better application. From the readings of our experiment, we are laying out certain suggestions for design of Constable 2.0.
+  After conducting 10 experiments on 7 different repositories, we gathered qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations, we conclude that Constable Github Action is currently performing well but not the best. However, it can definitely be improved into a better application. From the readings of our experiment and what we have perceived from them, we are laying out certain suggestions for design of Constable 2.0.
   
 ### Design for Constable 2.0
   1. Consider code coverage of the repository.
