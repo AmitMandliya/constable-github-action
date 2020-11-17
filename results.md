@@ -79,13 +79,14 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
     
   These points help us to collect recommendations for Constable 2.0.
     
-* Comparisons between mode of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
+* Comparisons between **mode of grades assigned by subjects** vs. grade assigned by Constable for all the repositories.
                         ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparison.png) 
   
-  The grades the subjects gave were usually very different from the grade assigned by Constable. This was mainly because of the fact that the labrats and Constable deemed different factors as essential to realize the contributability of a repository. When they looked at a repository, they went through the documentation and purpose of the project. Constable, on the other hand, graded repositories more objectively.
+  The grades the subjects gave were usually very different from the grade assigned by Constable. This was mainly because of the fact that the subjects and Constable deemed different factors as essential to realize the contributability of a repository. When they looked at a repository, they went through the documentation and purpose of the project. Constable, on the other hand, graded repositories more objectively.
   
-* Comparisons between median of grades assigned by subjects vs. grade assigned by Constable for all the repositories.
+* Comparisons between **median of grades assigned by subjects** vs. grade assigned by Constable for all the repositories.
                         ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/gradesComparisonMedian.png) 
+ 
  The distribution of median of grades assigned by subjects is largely similar to that of mode because median essentially captures the overwhelming majority. Also, it balances the extreme values in responses and gives a sharp projection of the responses.
   
 * Histogram of answers to the question: **In a single word, what is the single most important factor you look for in a repository to judge its contributability?** </br>
