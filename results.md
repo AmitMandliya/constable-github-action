@@ -126,7 +126,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
 ### Design for Constable 2.0
   1. Take into account code coverage of the repository.
-  2. Check got a balanced text:graph ratio.
+  2. Check for a balanced text:graph ratio.
   3. Factors like Style Checkers, Code Formatters, Automated Analysis tools and setup.sh should be tracked.
   4. Along with presence of files, content of the files is also important. Therefore, it should have a mechanism to rate content in the files.
   5. Weights of the files tracked by Constable currently need to be readjusted.
