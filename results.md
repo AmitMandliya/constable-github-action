@@ -88,7 +88,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 
 * Histogram of answers to the question: **What other factors apart from the ones listed Constable do you think are significant while judging the contributability of a GitHub repository?** </br>
   
-  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/sigFactorsOTConstable.png = 400x400) 
+  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/sigFactorsOTConstable.png =400x400) 
 
   We observed that most lab rats listed factors which help in understanding the repository. They used these factors to judge how often the repository is used, how regularly it is updated, how recently soem changes were made, whether the contributors were coordinating in any way, if the code was well explained and understood, if the repository could be set up with ease, etc. These factors seemed to be the most significant factors.
   
