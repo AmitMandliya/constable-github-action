@@ -141,3 +141,10 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 * The insufficent no of observations for deduce a conclusion.
 * Not all lab rats have extensive experience in software development to accurately evaluate other open source projects.
 
+* Experimental mortality - The subjects might lose interest till they get to the last reposiotry and select any random option
+* Instrumentation- With different people running the trials, difference in time noted will change the outcomes
+* Selection of subjects - Bias in selecting the subjects may result in skewed results
+* The user is not well acquainted with open source contributions and so could not accurately assess the importance of each file
+* Qualitative factors like well-written code, easy of understanding are not taken into consideration by the user given the time limit 
+* Insufficent no of observations to deduce a conclusion.
+* Not all lab rats have extensive experience in software development to accurately evaluate other open source projects 
