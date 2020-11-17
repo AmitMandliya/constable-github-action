@@ -12,6 +12,10 @@ With the help of this process, we were able to understand two things:
   2. Did Constable GitHub Action meet the expectations of the crowd?
 
 After getting the responses, we performed analysis on them and derived meaningful insights.
+
+## It vs. Not It
+For every experiment, we at first asked the subject to manually evaluate a set of repositories. This part of the experiment is "Not It". <\br>
+Once the manual evaluation is done, we introduced Constable GitHub Action to the subject and asked them to use it of some repositories. This part of the experiment is "It". 
   
 ### Materials
 
@@ -26,8 +30,8 @@ List of repositories which we used for experiment:
 
 Link to Constable application: [https://5f9835f7f284f1a827a9681c--jovial-bose-1694a3.netlify.app/](https://5f9835f7f284f1a827a9681c--jovial-bose-1694a3.netlify.app/)
   
-Google Forms:
-Form to obtain results of manual evaluation of repositories: [https://forms.gle/4BEhHcfapJLr1gqS9](https://forms.gle/4BEhHcfapJLr1gqS9)
+Google Forms: <\br>
+Form to obtain results of manual evaluation of repositories: [https://forms.gle/4BEhHcfapJLr1gqS9](https://forms.gle/4BEhHcfapJLr1gqS9) </br>
 Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5eidfHA](https://forms.gle/FGcxVqDBrw5eidfHA)
 
   
@@ -118,8 +122,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   | Avg. PR Closing Time    | 2                            | 1.1                                  |
   | Avg. Issue Closing Time | 2                            | 1.1                                  |
 
-
-<Place holder>
+  * This points to a conclusion that the weights for all these files need to be readjusted.
   
 ### Conclusions
   After conducting 10 experiments on 7 different repositories, we gathered qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations to took, we conclude that Constable Github Action is currently performing well but not the best. However, it can be definitely improved into a better application. From the readings of our experiment, we are laying out certain suggestions for design of Constable 2.0 
@@ -127,13 +130,12 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 ### Design for Constable 2.0
   1. Consider code coverage of the repository.
   2. Check for a balanced text:graph ratio.
-  3. Factors like Style Checkers, Code Formatters, Automated Analysis tools and setup.sh should be tracked.
+  3. Factors like Style Checkers, Code Formatters, Automated Analysis tools and setup.sh should be tracked. A stretch goal here can be: provide a dropdown having an exhaustive set of files and attributes of a GitHub repository so that the user can select all the factors he wants to track personally.
   4. Along with presence of files, content of the files is also important. Therefore, it should have a mechanism to rate content in the files.
-  5. Weights of the files tracked by Constable currently need to be readjusted.
+  5. Weights of the files tracked by Constable currently need to be readjusted. A stretch goal for this project can be: provide a setting where user can             dynamically assign weights to all these files.
   6. Number of PR, Issues and average closing times are important. But description of issues and PRs are equally important if not less.
   7. Take in account the present badges on the repository for the grade calculation.
   8. Existence of an active chat channel is really helpful.
-
   
 ### Threats to Validity
 * Experimental mortality - The subjects might lose interest till they get to the last reposiotry and select any random option
