@@ -43,6 +43,13 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/singleFactorHist.png) 
 
   The most important factors they considered for contributability were documentation, explanation etc. This shows that the presence of contribution and readme files were not enough. Contributors require these files to have enough information such that the purpose and requirements are well understood.
+
+* Histogram of answers to the question: **What other factors apart from the ones listed Constable do you think are significant while judging the contributability of a GitHub repository?
+** </br>
+  
+  ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/sigFactorsOTConstable.png) 
+
+  We observed that most lab rats listed factors which help in understanding the repository. They used these factors to judge how often the repository is used, how regularly it is updated, how recently soem changes were made, whether the contributors were coordinating in any way, if the code was well explained and understood, if the repository could be set up with ease, etc. These factors seemed to be the most significant factors.
   
 * Here are the **top 5 factors which can make Constable better**:
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsToMakeBetter.png) 
@@ -51,6 +58,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
 * Here are the **top 5 factors which are not considered important** while judging a repository:
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsNotImportant.png) 
+  
   
 ### Analysis
 
