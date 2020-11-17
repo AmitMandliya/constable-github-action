@@ -125,17 +125,21 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   After conducting 10 experiments on 7 different repositories, we gathered qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations to took, we conclude that Constable Github Action is currently performing well but not the best. However, it can be definitely improved into a better application. From the readings of our experiment, we are laying out certain suggestions for design of Constable 2.0 
   
 ### Design for Constable 2.0
-  1. Take into account code coverage of the repository.
+  1. Consider code coverage of the repository.
   2. Check for a balanced text:graph ratio.
   3. Factors like Style Checkers, Code Formatters, Automated Analysis tools and setup.sh should be tracked.
   4. Along with presence of files, content of the files is also important. Therefore, it should have a mechanism to rate content in the files.
   5. Weights of the files tracked by Constable currently need to be readjusted.
   6. Number of PR, Issues and average closing times are important. But description of issues and PRs are equally important if not less.
-  7. Take in account the presence badges on the repository.
+  7. Take in account the present badges on the repository for the grade calculation.
   8. Existence of an active chat channel is really helpful.
 
   
 ### Threats to Validity
+* The user is not well acquainted with open source contributions and so could not accurately assess the importance of each file.
+* Qualitative factors like well-written code, easy of understanding are not taken into consideration by the user given the time limit. 
+* The insufficent no of observations for deduce a conclusion.
+* Not all lab rats have extensive experience in software development to accurately evaluate other open source projects.
 
 * Experimental mortality - The subjects might lose interest till they get to the last reposiotry and select any random option
 * Instrumentation- With different people running the trials, difference in time noted will change the outcomes
