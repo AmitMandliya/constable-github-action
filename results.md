@@ -90,7 +90,7 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
   
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/sigFactorsOTConstable2.png) 
 
-  We observed that most lab rats listed factors which help in understanding the repository. They used these factors to judge how often the repository is used, how regularly it is updated, how recently soem changes were made, whether the contributors were coordinating in any way, if the code was well explained and understood, if the repository could be set up with ease, etc. These factors seemed to be the most significant factors.
+  We observed that most lab rats listed factors which help in understanding the repository. They used these factors to judge how often the repository is used, how regularly it is updated, how recently some changes were made, whether the contributors were coordinating in any way, if the code was well explained and understood, if the repository could be set up with ease, etc. These factors seemed to be the most significant factors.
   
 * Here are the **top 5 factors which can make Constable better**:
   ![abc](https://github.com/AmitMandliya/constable-github-action/blob/main/images/topFactorsToMakeBetter.png) 
@@ -122,13 +122,13 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 <Place holder>
   
 ### Conclusions
-  After conducting 10 experiments on 7 different repositories, we gathers immense qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations to took, we conclude that Constable Github Action is currently performing well but not the best. However, it can be definitely improved into a better application. From the readings of our experiment, we are laying out certain suggestions for design of Constable 2.0 
+  After conducting 10 experiments on 7 different repositories, we gathered qualitative and quantative feedback. We are thankful to all of our subjects for that. By going through the feeback we received and the observations to took, we conclude that Constable Github Action is currently performing well but not the best. However, it can be definitely improved into a better application. From the readings of our experiment, we are laying out certain suggestions for design of Constable 2.0 
   
 ### Design for Constable 2.0
-  1. Take in account code coverage of the repository.
+  1. Take into account code coverage of the repository.
   2. Check got a balanced text:graph ratio.
   3. Factors like Style Checkers, Code Formatters, Automated Analysis tools and setup.sh should be tracked.
-  4. Along with presence of files, content of the files is also important. Therefore, it should have a mechanism to rate content of the files.
+  4. Along with presence of files, content of the files is also important. Therefore, it should have a mechanism to rate content in the files.
   5. Weights of the files tracked by Constable currently need to be readjusted.
   6. Number of PR, Issues and average closing times are important. But description of issues and PRs are equally important if not less.
   7. Take in account the presence badges on the repository.
@@ -139,5 +139,5 @@ Form to obtain subject's feedback on Constable: [https://forms.gle/FGcxVqDBrw5ei
 
 * The user is not well acquainted with open source contributions and so could not accurately assess the importance of each file
 * Qualitative factors like well-written code, easy of understanding are not taken into consideration by the user given the time limit 
-* The insufficent no of observations for deduce a conclusion.
+* Insufficent no of observations to deduce a conclusion.
 * Not all lab rats have extensive experience in software development to accurately evaluate other open source projects  
